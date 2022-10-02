@@ -1,3 +1,3 @@
  # very sussy indeed
  
- ![](/assets/0.png)
+ ![](/static/assets/0.png)
